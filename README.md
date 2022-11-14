@@ -4,7 +4,3 @@
 <p> Trabalho prático  com o objetivo de simular semáforos em java utilizando
 a seção crítica com controle e a seção critica sem controle</p>
 
-<h2> Status </h2>
-<p> Projeto Entregue :heavy_check_mark: </p>
-
-
